@@ -1,0 +1,14 @@
+Modelo de Monod com concentração inicial de 70 g/L
+
+Concentração Máxima de Biomassa:   6.220897 g/L
+Concentração Máxima de Substrato:  72.404600 g/L
+Concentração Máxima de Produto:    31.097341 g/L
+Mu máximo:                         0.151556
+Constante de Saturação:            24.000922
+Tempo de Simulação:                599.171875 seconds
+Desvio Padrão Residual da Biomassa:    0.021084    g/L
+Desvio Padrão Residual do Substrato:   1.989817    g/L
+Desvio Padrão Residual do Produto:     0.353891    g/L
+Nível de Randomicidade da Biomassa:        0.353553
+Nível de Randomicidade do Substrato:       -2.828427
+Nível de Randomicidade do Produto:         -0.912871

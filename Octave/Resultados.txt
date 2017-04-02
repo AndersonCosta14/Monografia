@@ -1,0 +1,15 @@
+Modelo de Levenspiel com concentrao inicial de 80 g/L
+
+Concentrao Mxima de Biomassa:       7.140307 g/L
+Concentrao Mxima de Substrato:      81.170000 g/L
+Concentrao Mxima de Produto:        34.771872 g/L
+Mu mximo:                             0.145666
+Constante de Saturao:                20.588429
+Expoente n:                            0.026881
+Tempo de Simulao:                    27.632000 seconds
+Desvio Padro Residual da Biomassa:    0.028957    g/L
+Desvio Padro Residual do Substrato:   2.755426    g/L
+Desvio Padro Residual do Produto:     0.433382    g/L
+Nvel de Randomicidade da Biomassa:    -3.535534
+Nvel de Randomicidade do Substrato:   -0.707107
+Nvel de Randomicidade do Produto:     -0.912871
